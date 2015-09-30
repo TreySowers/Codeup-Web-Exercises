@@ -1,0 +1,91 @@
+.flag {
+	height: 400px;	
+	width: 700px;
+	border: 1px solid black;
+}
+
+#circle {
+	height: 250px;
+	width: 250px;
+	background-color: red;
+	border-radius: 50%;
+	margin-top: 80px;
+}
+
+.flag2 {
+	height: 400px;
+	width: 700px;
+	border: 1px solid black;
+	background-color: #4aadd6;
+}
+
+#circle2 {
+	height: 230px;
+	width: 230px;
+	background-color:#ffde00;
+	border-radius: 50%;
+	margin-top: 80px;
+	margin-right: 70px;
+}
+
+.flag3 {
+	height: 400px;
+	width: 700px;
+	border: 1px solid black;
+}
+
+#usflag {
+	font-family: "Lucida Sans Regular", sans-serif;
+	width: 398px;
+	border: 1px solid black;
+	margin: 0 auto;
+	position: relative;
+}
+
+.blue {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: auto !important;
+	width: 180px;
+	background-color: #00348c;
+	color: #fff;
+	text-align: center;
+	padding: 2px 0 5px 8px !important;
+	padding: 2px 0 5px 0; 
+}
+
+.blue p {
+	letter-spacing: 12px;
+	height: 14px;
+	font-size: 20px;
+	line-height: 14px;
+	margin: 0;
+}
+
+p.stripe {
+	height: 19px;
+	font-weight: bold;
+	text-align: right;
+	padding: 0 5px;
+	margin: 0;
+}
+
+.red {
+	color: #f70029;
+	background-color: #f70029;
+}
+
+.red: :-moz-selection {
+	color: #fff:;
+}
+
+
+
+
+
+
+
+
+
+

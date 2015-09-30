@@ -1,0 +1,19 @@
+body {
+	background-color:pink;
+}
+
+.text {
+	color: white;
+}
+
+#first 	{
+	background-color:blue;
+}
+
+#second {
+	position: relative;
+	background-color: yellow;
+	text-decoration: underline;
+	
+}	
+

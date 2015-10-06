@@ -5,15 +5,18 @@
 </head>
 <body>
 	<script>
-		var i = 99;
+		var number = 99;
 
-		do {
-		var j = i-1
-		console.log(i+' bottles of beer on the wall, '+i+' bottles of beer. Take one down and pass it around,'+j+' bottles of beer on the wall.');
-		i--;
+		while(number >= 1) {
+			if(number == 1) {
+				console.log(number + 'bottle of beer on the wall. Take it down and pass it around');
+			} else {
+				console.log(number + 'bottles of beer on the wall. Tak one down, pass it around.');
+			}
+			number -=1;
 		}
-		while (i >= 1)
-		console.log()
+		console.log('No bottles of beer. Someone go to the store');
+		console.log(number);
 	</script>
 
 	
